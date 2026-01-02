@@ -1,1 +1,2 @@
-pip install streamlit pandas openpyxl
+pip install streamlit pandas openpyxl bcrypt
+streamlit run streamlit_app.py
